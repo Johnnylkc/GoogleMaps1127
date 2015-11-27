@@ -29,7 +29,7 @@
     
     [self.tableView registerClass:[HomeCell class] forCellReuseIdentifier:@"HomeCell"];
     
-    self.tableView.rowHeight = 100;
+    self.tableView.rowHeight = 120;
     
     [self AFNetworking];
     
